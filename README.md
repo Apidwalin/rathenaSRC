@@ -1,1 +1,1 @@
-# rathenaSRC
+https://github.com/rathena/rathena
